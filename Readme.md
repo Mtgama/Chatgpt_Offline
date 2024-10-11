@@ -40,4 +40,4 @@ To run this project, you'll need the following:
 
 ## Here is a demo video of how the project works:
 
-![Watch the video](https://s5.uupload.ir/files/matgama/project/VID_110220818_010452_637.mp4)
+![Watch the video](https://my.uupload.ir/dl/VX7Kyrnb)
